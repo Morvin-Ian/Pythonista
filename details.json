@@ -1,0 +1,28 @@
+ {
+	"details":[
+		{
+			"name":"Developer Morvin",
+			"age":"90",
+            "email":"ian@gmail.com"
+		},
+		{
+			"name":"Developer Evans",
+			"age":"28",
+            "email":"evans@gmail.com"
+
+		},
+		{
+			"name":"Hacker Cyprian",
+			"age":"80",
+            "email":"cyprian@gmail.com"
+
+		},
+        {
+			"name":"Designer Rachael",
+			"age":"34",
+            "email":"rachael@gmail.com"
+
+		}
+
+	]
+}
